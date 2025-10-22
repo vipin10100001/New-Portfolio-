@@ -65,15 +65,8 @@ body {
   gap: 1rem;
 }
 
-.theme-toggle, .hamburger {
-  background: none;
-  border: none;
-  color: #fff;
-  font-size: 1.4rem;
-  cursor: pointer;
-}
 
-.hamburger { display: none; }
+
 
 /* Light mode */
 body.light .navbar, body.light .nav-links a, body.light .theme-toggle, body.light .hamburger {
